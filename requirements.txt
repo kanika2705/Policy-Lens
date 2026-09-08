@@ -1,0 +1,7 @@
+streamlit>=1.36
+PyMuPDF>=1.24
+faiss-cpu>=1.8
+sentence-transformers>=2.7
+ollama>=0.3
+python-dotenv>=1.0
+numpy>=1.26
