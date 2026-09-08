@@ -101,28 +101,24 @@ The project runs locally and does **not require a paid API or API key**.
 
 ## Project Structure
 
-```text
 policysense/
 │
 ├── app.py
 ├── requirements.txt
-├── .env.example
 ├── .gitignore
+├── .gitattributes
 ├── README.md
 │
-├── src/
-│   ├── __init__.py
-│   ├── pdf_processor.py
-│   ├── embeddings.py
-│   ├── retriever.py
-│   ├── llm.py
-│   ├── policy_analyzer.py
-│   └── comparison.py
+├── __init__.py
+├── pdf_processor.py
+├── embeddings.py
+├── retriever.py
+├── llm.py
+├── policy_analyzer.py
+├── comparison.py
 │
-└── sample_policies/
-    ├── sample_attendance_policy.pdf
-    └── sample_attendance_policy_revised.pdf
-```
+├── sample_attendance_policy.pdf
+└── sample_attendance_policy_v2.pdf
 
 ### Module responsibilities
 
