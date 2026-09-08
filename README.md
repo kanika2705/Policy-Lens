@@ -13,12 +13,21 @@ Instead of simply summarizing a PDF, it retrieves relevant policy provisions, ge
 - Generate an answer using a local LLM.
 - Display supporting policy excerpts and page information.
 - Perform supported numerical calculations with Python.
+<img width="858" height="403" alt="image" src="https://github.com/user-attachments/assets/7fc6faa7-98f8-4e07-968c-2a946aa92c5e" />
+<img width="847" height="228" alt="image" src="https://github.com/user-attachments/assets/ec45ead9-72f7-4b9c-8777-249a783399d1" />
+<img width="854" height="395" alt="image" src="https://github.com/user-attachments/assets/6f5a096e-6f66-413f-a4a1-81a222ec4d6d" />
+<img width="857" height="406" alt="image" src="https://github.com/user-attachments/assets/7e78481a-ec3d-4850-b9a3-e2332b185d94" />
+
+
+
+
 
 ### Policy Comparison
 - Upload an older and newer version of a policy.
 - Identify meaningful changes.
 - Categorize changes as **Added**, **Removed**, or **Modified**.
 - Explain the potential impact of important changes.
+<img width="938" height="308" alt="image" src="https://github.com/user-attachments/assets/2b9b5beb-f9b4-4348-841f-2c169ed59824" />
 
 ## Example
 
